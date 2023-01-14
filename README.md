@@ -8,3 +8,4 @@ merge conflict 1
 merge conflict 2
 
 sampling merge conflicts.
+sampling merge conflicts.
